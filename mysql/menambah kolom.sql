@@ -1,0 +1,1 @@
+ALTER TABLE menulis ADD waktu_awal varchar(50) NOT NULL;

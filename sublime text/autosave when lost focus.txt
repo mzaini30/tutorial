@@ -1,0 +1,7 @@
+
+
+Open your "File Settings - User" settings file (Command+, on the Mac) and add the following line:
+
+"save_on_focus_lost": true
+
+In addition, you can open the "File Settings - Default" file (Sublime Text 2 menu > Preferences) to see all the default settings. Override settings in your User file, since this Default file may be changed by software updates.

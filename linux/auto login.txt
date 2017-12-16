@@ -1,0 +1,7 @@
+Edit the /etc/gdm/custom.conf file and make sure that the [daemon] section in the file specifies the following:
+custom.conf
+
+[daemon]
+AutomaticLoginEnable=True
+AutomaticLogin=username
+

@@ -1,0 +1,1 @@
+ALTER TABLE nama_tabel DROP nama_kolom;
