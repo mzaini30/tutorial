@@ -1,0 +1,3 @@
+Pasang GNOME Tweak Tool
+Cari tema dari GNOME Look terus letakkan di /usr/share/themes/
+Jalankan GNOME Tweak Tool di Setting->Advanced Settings
